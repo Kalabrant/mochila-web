@@ -16528,5 +16528,15 @@
         "manual": "QftIS (Barrier Peaks)",
         "precio": "50 gp",
         "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_ink_magical_gemstone",
+        "nombre_en": "Magical Gem-Infused Ink",
+        "nombre_es": "Tinta Mágica de Piedras Preciosas",
+        "tipo": "Scroll",
+        "descripcion": "Un vial de tinta alquímica espesa, infundida con polvo fino de rubíes, zafiros y diamantes molidos. Es esencial para transcribir conjuros de cualquier nivel en un libro de magia. La tinta brilla con un color iridiscente y se fija permanentemente en el pergamino, imbuyendo las palabras con la energía necesaria para canalizar el tejido de la magia.",
+        "manual": "Custom",
+        "precio": "50 gp",
+        "requiere_sintonizacion": false
     }
 ]
