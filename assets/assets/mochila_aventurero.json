@@ -5620,6 +5620,16 @@
         "requiere_sintonizacion": true
     },
     {
+        "id": "item_hoja_lunar_ithilion",
+        "nombre_en": "Ithilion Moonblade",
+        "nombre_es": "Hoja Lunar de Ithilion",
+        "tipo": "Martial Weapon, Melee Weapo",
+        "descripcion": "Espada mágica vinculada a uno de los personajes del grupo. Aunque posee un linaje antiguo y grabados élficos ocultos, actualmente aparenta ser una espada normal debido a un potente hechizo que la mantiene latente. Sus verdaderas propiedades y naturaleza mágica solo se revelarán cuando dicho encantamiento sea roto.",
+        "manual": "Custom",
+        "precio": "100000 gp",
+        "requiere_sintonizacion": true
+    },
+    {
         "id": "talisman_of_pure_good",
         "nombre_en": "Talisman of Pure Good",
         "nombre_es": "Talismán del Bien Puro",
@@ -16537,6 +16547,666 @@
         "descripcion": "Un vial de tinta alquímica espesa, infundida con polvo fino de rubíes, zafiros y diamantes molidos. Es esencial para transcribir conjuros de cualquier nivel en un libro de magia. La tinta brilla con un color iridiscente y se fija permanentemente en el pergamino, imbuyendo las palabras con la energía necesaria para canalizar el tejido de la magia.",
         "manual": "Custom",
         "precio": "50 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_silver_dust_ceremony",
+        "nombre_en": "Silver Dust (25 gp)",
+        "nombre_es": "Polvo de Plata (25 po)",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Ceremonia. El componente se consume durante el lanzamiento",
+        "manual": "Xanathar",
+        "precio": "25 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_diamond_50",
+        "nombre_en": "Diamond (50 gp)",
+        "nombre_es": "Diamante (50 po)",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Orbe Cromático. El componente no se consume.",
+        "manual": "PHB",
+        "precio": "50 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_familiar_components",
+        "nombre_en": "Charcoal, Incense, and Herbs",
+        "nombre_es": "Carbón, Incienso y Hierbas",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componentes para el hechizo Encontrar Familiar. Se consumen totalmente por el fuego en el proceso.",
+        "manual": "PHB",
+        "precio": "10 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_pearl_100_feather",
+        "nombre_en": "Pearl and Owl Feather",
+        "nombre_es": "Perla y Pluma de Búho",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Identificar. La perla de 100 po es una inversión única y no se consume.",
+        "manual": "PHB",
+        "precio": "100 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_lead_ink",
+        "nombre_en": "Lead-based Ink",
+        "nombre_es": "Tinta a base de plomo",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Escritura Ilusoria. Se consume al escribir el mensaje.",
+        "manual": "PHB",
+        "precio": "10 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_royalty_coin",
+        "nombre_en": "Royalty (1 gp)",
+        "nombre_es": "Regalía (1 po)",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Jim's Magic Missile. La moneda desaparece del lanzador y se transfiere al creador del hechizo.",
+        "manual": "Acq. Inc",
+        "precio": "1 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_gold_dust_25",
+        "nombre_en": "Gold Dust (25 gp)",
+        "nombre_es": "Polvo de Oro (25 po)",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para los hechizos Cerradura Arcana u Objeto Inamovible. Se consume al aplicarse.",
+        "manual": "PHB / Wildemount",
+        "precio": "25 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_divination_sticks",
+        "nombre_en": "Marked Sticks or Tokens",
+        "nombre_es": "Palitos o Fichas Marcadas",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Augurio. No se consumen.",
+        "manual": "PHB",
+        "precio": "25 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_ruby_dust_50",
+        "nombre_en": "Ruby Dust (50 gp)",
+        "nombre_es": "Polvo de Rubí (50 po)",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Llama Continua. Se consume para crear una luz eterna sin calor.",
+        "manual": "PHB",
+        "precio": "50 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_jade_dust_honeycomb",
+        "nombre_en": "Jade Dust and Honeycomb",
+        "nombre_es": "Polvo de Jade y Panal",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Boca Mágica. Se consume al encantar el objeto.",
+        "manual": "PHB",
+        "precio": "10 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_platinum_rings_pair",
+        "nombre_en": "Pair of Platinum Rings",
+        "nombre_es": "Par de Anillos de Platino",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Vínculo de Protección. El par cuesta 100 po (50 po cada uno) y no se consumen.",
+        "manual": "PHB",
+        "precio": "100 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_white_pearl_100",
+        "nombre_en": "White Pearl (100 gp)",
+        "nombre_es": "Perla Blanca (100 po)",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Favor de la Fortuna. Se consume tras el lanzamiento.",
+        "manual": "Wildemount",
+        "precio": "100 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_erudition_book",
+        "nombre_en": "Book of Erudition",
+        "nombre_es": "Libro de Erudición",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Conocimiento Prestado. No se consume; actúa como ancla temática.",
+        "manual": "Strixhaven",
+        "precio": "25 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_golden_acorn",
+        "nombre_en": "Golden Acorn with Fur/Feathers",
+        "nombre_es": "Bellota Dorada con Piel/Plumas",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Convocar Bestia. No se consume.",
+        "manual": "Tasha",
+        "precio": "200 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_crystal_eye_horn",
+        "nombre_en": "Crystal Eye or Jeweled Horn",
+        "nombre_es": "Ojo de Cristal o Cuerno Enjoyado",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Clarividencia. No se consume.",
+        "manual": "PHB",
+        "precio": "100 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_glyph_incense_diamond",
+        "nombre_en": "Incense and Diamond Dust (200 gp)",
+        "nombre_es": "Incienso y Polvo de Diamante (200 po)",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Glifo de Protección. Se consume al inscribir el glifo.",
+        "manual": "PHB",
+        "precio": "200 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_holy_water_powder",
+        "nombre_en": "Holy Water or Silver/Iron Powder",
+        "nombre_es": "Agua Bendita o Polvo Plata/Hierro",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Círculo Mágico. Se consume al trazar el círculo.",
+        "manual": "PHB",
+        "precio": "100 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_diamond_dust_25",
+        "nombre_en": "Diamond Dust (25 gp)",
+        "nombre_es": "Polvo de Diamante (25 po)",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo No Detección. Se consume al espolvorear el objetivo.",
+        "manual": "PHB",
+        "precio": "25 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_revivify_diamonds",
+        "nombre_en": "Diamonds (300 gp)",
+        "nombre_es": "Diamantes (300 po)",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Revivir. Se consumen para traer a alguien de vuelta a la vida.",
+        "manual": "PHB",
+        "precio": "300 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_golden_flower_300",
+        "nombre_en": "Golden Flower",
+        "nombre_es": "Flor Dorada",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Convocar Hada. No se consume.",
+        "manual": "Tasha",
+        "precio": "300 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_vial_tears_300",
+        "nombre_en": "Gem-encrusted Vial of Tears",
+        "nombre_es": "Frasco de Lágrimas Enjoyado",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Convocar Engendro Sombrío. No se consume.",
+        "manual": "Tasha",
+        "precio": "300 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_incense_sacrificial",
+        "nombre_en": "Incense and Sacrificial Offering",
+        "nombre_es": "Incienso y Ofrenda Sacrificial",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Divinación. Se consume durante el ritual.",
+        "manual": "PHB",
+        "precio": "25 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_leomund_chest_set",
+        "nombre_en": "Ivory Chest and Replica",
+        "nombre_es": "Cofre de Marfil y Réplica",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el Arca Secreta de Leomund. Incluye un cofre grande y una copia diminuta. No se consumen.",
+        "manual": "PHB",
+        "precio": "5050 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_diamond_dust_100",
+        "nombre_en": "Diamond Dust (100 gp)",
+        "nombre_es": "Polvo de Diamante (100 po)",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para los hechizos Piel de Piedra o Restauración Mayor. Se consume al aplicarse.",
+        "manual": "PHB",
+        "precio": "100 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_platinum_vial_summon",
+        "nombre_en": "Platinum Vial with Tentacle/Eye",
+        "nombre_es": "Vial de Platino con Tentáculo/Ojo",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Convocar Aberración. No se consume.",
+        "manual": "Tasha",
+        "precio": "400 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_metal_stone_box",
+        "nombre_en": "Metal or Stone Box",
+        "nombre_es": "Caja de Metal o Piedra",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Convocar Constructo. No se consume.",
+        "manual": "Tasha",
+        "precio": "400 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_gold_vial_summon",
+        "nombre_en": "Gold Vial with Elemental Essence",
+        "nombre_es": "Vial de Oro con Esencia Elemental",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Convocar Elemental. No se consume.",
+        "manual": "Tasha",
+        "precio": "400 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_agate_1000",
+        "nombre_en": "Agate (1000 gp)",
+        "nombre_es": "Ágata (1000 po)",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Despertar. Se consume al otorgar consciencia a una planta o animal.",
+        "manual": "PHB",
+        "precio": "1000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_sun_pendant_gold",
+        "nombre_en": "Sun-shaped Gold Pendant",
+        "nombre_es": "Colgante de Sol de Oro",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Amanecer. No se consume.",
+        "manual": "Xanathar",
+        "precio": "100 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_hallow_herbs_oil",
+        "nombre_en": "Herbs, Oils, and Incense (1000 gp)",
+        "nombre_es": "Hierbas, Aceites e Incienso (1000 po)",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Consagrar. Se consume totalmente tras el ritual.",
+        "manual": "PHB",
+        "precio": "1000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_ivory_strips_incense",
+        "nombre_en": "Incense and Ivory Strips",
+        "nombre_es": "Incienso y Tiras de Marfil",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Conocimiento de Leyendas. Se consumen parcialmente.",
+        "manual": "PHB",
+        "precio": "450 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_jewel_planar_binding",
+        "nombre_en": "Jewel (1000 gp)",
+        "nombre_es": "Joya (1000 po)",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Vínculo Planar. Se consume al atrapar a la entidad.",
+        "manual": "PHB",
+        "precio": "1000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_diamond_500",
+        "nombre_en": "Diamond (500 gp)",
+        "nombre_es": "Diamante (500 po)",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para los hechizos Alzar a los Muertos o Fortaleza Poderosa. Se consume.",
+        "manual": "PHB / Xanathar",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_reincarnate_oils",
+        "nombre_en": "Rare Oils and Unguents",
+        "nombre_es": "Aceites y Ungüentos Raros",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Reencarnar. Se consumen para formar el nuevo cuerpo.",
+        "manual": "PHB",
+        "precio": "1000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_reflective_focus",
+        "nombre_en": "Jeweled Reflective Focus",
+        "nombre_es": "Foco Reflectante Enjoyado",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Adivinación (Scrying). No se consume.",
+        "manual": "PHB",
+        "precio": "1000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_teleport_inks",
+        "nombre_en": "Gem-infused Inks and Chalk",
+        "nombre_es": "Tintas y Tizas con Gemas",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Círculo de Teletransportación. Se consumen al trazar los glifos.",
+        "manual": "PHB",
+        "precio": "50 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_golden_reliquary",
+        "nombre_en": "Golden Reliquary",
+        "nombre_es": "Relicario Dorado",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Convocar Celestial. No se consume.",
+        "manual": "Tasha",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_dragon_engraved_object",
+        "nombre_en": "Dragon-engraved Object",
+        "nombre_es": "Objeto grabado con Dragón",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Convocar Espíritu Dracónico. No se consume.",
+        "manual": "Fizban",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_black_pearl_dust",
+        "nombre_en": "Crushed Black Pearl Dust",
+        "nombre_es": "Polvo de Perla Negra Triturada",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Círculo de Muerte. No se consume.",
+        "manual": "PHB",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_ivory_statuette_gems",
+        "nombre_en": "Ivory Statuette of Yourself",
+        "nombre_es": "Estatuilla de Marfil Propia",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Contingencia. Debe estar decorada con gemas. No se consume.",
+        "manual": "PHB",
+        "precio": "1500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_sapphire_1000",
+        "nombre_en": "Sapphire (1000 gp)",
+        "nombre_es": "Zafiro (1000 po)",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para la Invocación Instantánea. Solo se consume si se usa para recuperar el objeto.",
+        "manual": "PHB",
+        "precio": "1000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_ruby_dust_1000",
+        "nombre_en": "Incense and Ruby Dust (1000 gp)",
+        "nombre_es": "Incienso y Polvo de Rubí (1000 po)",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Prohibición. No se consume a menos que se desee permanencia.",
+        "manual": "PHB",
+        "precio": "1000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_silver_rod_blood",
+        "nombre_en": "Silver Rod and Blood",
+        "nombre_es": "Vara de Plata y Sangre",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Guardas y Protecciones. No se consume.",
+        "manual": "PHB",
+        "precio": "10 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_jeweled_bowl_1000",
+        "nombre_en": "Jeweled Bowl",
+        "nombre_es": "Cuenco Enjoyado",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Banquete de los Héroes. Se consume durante el festín.",
+        "manual": "PHB",
+        "precio": "1000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_magic_jar_gem",
+        "nombre_en": "Gem or Ornamental Container",
+        "nombre_es": "Gema o Contenedor Ornamental",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Recipiente Mágico. Sirve como receptáculo del alma. No se consume.",
+        "manual": "PHB",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_jade_dust_25",
+        "nombre_en": "Jade Dust (25 gp)",
+        "nombre_es": "Polvo de Jade (25 po)",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Ilusión Programada. No se consume.",
+        "manual": "PHB",
+        "precio": "25 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_eye_ointment",
+        "nombre_en": "Eye Ointment (25 gp)",
+        "nombre_es": "Ungüento de Ojos (25 po)",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Visión Verdadera. Se consume al aplicarse en los ojos.",
+        "manual": "PHB",
+        "precio": "25 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_soul_cage_silver",
+        "nombre_en": "Small Silver Cage",
+        "nombre_es": "Jaula de Plata Pequeña",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Jaula de Almas. No se consume.",
+        "manual": "Xanathar",
+        "precio": "100 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_platinum_plate_shield",
+        "nombre_en": "Jeweled Platinum Plate",
+        "nombre_es": "Plato de Platino Enjoyado",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el Escudo de Platino de Fizban. No se consume.",
+        "manual": "Fizban",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_ruby_dust_1500",
+        "nombre_en": "Ruby Dust (1500 gp)",
+        "nombre_es": "Polvo de Rubí (1500 po)",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para los hechizos Jaula de Fuerza o Simulacro. En Simulacro se consume; en Jaula de Fuerza no.",
+        "manual": "PHB",
+        "precio": "1500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_ivory_portal_mansion",
+        "nombre_en": "Ivory Portal and Accessories",
+        "nombre_es": "Portal de Marfil y Accesorios",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para la Mansión Magnífica. No se consume.",
+        "manual": "PHB",
+        "precio": "15 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_tuned_metal_rod",
+        "nombre_en": "Tuned Metal Rod",
+        "nombre_es": "Vara Metálica Afinada",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Desplazamiento de Plano. Cada vara está afinada a un plano específico. No se consume.",
+        "manual": "PHB",
+        "precio": "250 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_diamond_1000",
+        "nombre_en": "Diamond (1000 gp)",
+        "nombre_es": "Diamante (1000 po)",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para los hechizos Resurrección o Aura Sagrada. En Resurrección se consume; en Aura Sagrada no.",
+        "manual": "PHB",
+        "precio": "1000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_gem_dust_sequester",
+        "nombre_en": "Various Crushed Gems Dust",
+        "nombre_es": "Polvo de Gemas Variadas",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Secuestrar. Se consume totalmente.",
+        "manual": "PHB",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_diamond_opal_dust",
+        "nombre_en": "Diamond and Opal Dust",
+        "nombre_es": "Polvo de Diamante y Ópalo",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Símbolo. Se consume al inscribir el glifo.",
+        "manual": "PHB",
+        "precio": "1000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_jeweled_dragon_statue",
+        "nombre_en": "Jeweled Dragon Statue",
+        "nombre_es": "Estatua de Dragón Enjoyada",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Transformación Dracónica. No se consume.",
+        "manual": "Fizban",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_platinum_spool",
+        "nombre_en": "Platinum Spool",
+        "nombre_es": "Carrete de Platino",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Atar Esencia. Se consume durante el lanzamiento.",
+        "manual": "Wildemount",
+        "precio": "250 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_mercury_doll_magen",
+        "nombre_en": "Mercury Vial and Doll",
+        "nombre_es": "Vial de Mercurio y Muñeca",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Crear Magen. El coste base es de 500 po y se consume.",
+        "manual": "Rime",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_clone_set",
+        "nombre_en": "Diamond and Sealable Container",
+        "nombre_es": "Diamante y Contenedor Sellable",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componentes para el hechizo Clon. El diamante de 1000 po se consume, el recipiente de 2000 po no.",
+        "manual": "PHB",
+        "precio": "3000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_jacinth_silver_bar",
+        "nombre_en": "Jacinth and Silver Bar",
+        "nombre_es": "Jacinto y Barra de Plata",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para la Proyección Astral. Se requiere un set de 1100 po por cada persona afectada y se consumen.",
+        "manual": "PHB",
+        "precio": "1100 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_diamond_5000",
+        "nombre_en": "Diamond (5000 gp)",
+        "nombre_es": "Diamante (5000 po)",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Portal (Gate). No se consume.",
+        "manual": "PHB",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_imprisonment_component",
+        "nombre_en": "Special Component (by CR)",
+        "nombre_es": "Componente Especial (según CR)",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Prisión. Cuesta 500 po por cada Dado de Golpe del objetivo y se consume.",
+        "manual": "PHB",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_adamantine_piece",
+        "nombre_en": "Piece of Adamantine (500 gp)",
+        "nombre_es": "Trozo de Adamantina (500 po)",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Invulnerabilidad. Se consume al otorgar la protección.",
+        "manual": "Xanathar",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_jade_diadem",
+        "nombre_en": "Jade Diadem",
+        "nombre_es": "Diadema de Jade",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Cambio de Forma (Shapechange). No se consume.",
+        "manual": "PHB",
+        "precio": "1500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_true_res_diamonds",
+        "nombre_en": "Diamonds (25,000 gp)",
+        "nombre_es": "Diamantes (25,000 po)",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para la Resurrección Verdadera. El coste más alto del sistema, se consumen totalmente.",
+        "manual": "PHB",
+        "precio": "25000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_hourglass_diamond_dust",
+        "nombre_en": "Hourglass with Diamond Dust",
+        "nombre_es": "Reloj de Arena con Polvo de Diamante",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Componente para el hechizo Estrago Temporal (Time Ravage). Se consume durante el lanzamiento.",
+        "manual": "Wildemount",
+        "precio": "5000 gp",
         "requiere_sintonizacion": false
     }
 ]
