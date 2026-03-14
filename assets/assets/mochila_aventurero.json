@@ -17208,5 +17208,15 @@
         "manual": "Wildemount",
         "precio": "5000 gp",
         "requiere_sintonizacion": false
+    },
+    {
+        "id": "item_grimoire_malakor",
+        "nombre_en": "Malakor's Silent Codex",
+        "nombre_es": "Códice de Malakor el Silencioso",
+        "tipo": "Adventuring Gear",
+        "descripcion": "Foco arcano con conjuros (1-9); permite 1 conjuro sutil (1-3) por descanso largo.",
+        "manual": "Custom",
+        "precio": "15000 gp",
+        "requiere_sintonizacion": true
     }
 ]
