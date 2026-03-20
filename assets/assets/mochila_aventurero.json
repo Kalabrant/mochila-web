@@ -17218,5 +17218,1085 @@
         "manual": "Custom",
         "precio": "15000 gp",
         "requiere_sintonizacion": true
+    },
+    {
+        "id": "1_battleaxe",
+        "nombre_en": "Battleaxe +1",
+        "nombre_es": "Hacha de Batalla +1",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Hacha de Batalla con un bonificador de +1 a las tiradas de ataque y daño. [Daño 1d10 cortante (a dos manos) o 1d8 cortante (a una mano)]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_battleaxe",
+        "nombre_en": "Battleaxe +2",
+        "nombre_es": "Hacha de Batalla +2",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Hacha de Batalla con un bonificador de +2 a las tiradas de ataque y daño. [Daño 1d10 cortante (a dos manos) o 1d8 cortante (a una mano)]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_battleaxe",
+        "nombre_en": "Battleaxe +3",
+        "nombre_es": "Hacha de Batalla +3",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Hacha de Batalla con un bonificador de +3 a las tiradas de ataque y daño. [Daño 1d10 cortante (a dos manos) o 1d8 cortante (a una mano)]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_blowgun",
+        "nombre_en": "Blowgun +1",
+        "nombre_es": "Cerbatana +1",
+        "tipo": "Martial Weapon, Ranged Weapon",
+        "descripcion": "[Poco Común, Mágica] + Cerbatana con un bonificador de +1 a las tiradas de ataque y daño. [Daño 1]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_blowgun",
+        "nombre_en": "Blowgun +2",
+        "nombre_es": "Cerbatana +2",
+        "tipo": "Martial Weapon, Ranged Weapon",
+        "descripcion": "[Raro, Mágica] + Cerbatana con un bonificador de +2 a las tiradas de ataque y daño. [Daño 1]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_blowgun",
+        "nombre_en": "Blowgun +3",
+        "nombre_es": "Cerbatana +3",
+        "tipo": "Martial Weapon, Ranged Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Cerbatana con un bonificador de +3 a las tiradas de ataque y daño. [Daño 1]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_club",
+        "nombre_en": "Club +1",
+        "nombre_es": "Garrote +1",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Garrote con un bonificador de +1 a las tiradas de ataque y daño. [Daño 1d4 Contundente]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_club",
+        "nombre_en": "Club +2",
+        "nombre_es": "Garrote +2",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Garrote con un bonificador de +2 a las tiradas de ataque y daño. [Daño 1d4 Contundente]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_club",
+        "nombre_en": "Club +3",
+        "nombre_es": "Garrote +3",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Garrote con un bonificador de +3 a las tiradas de ataque y daño. [Daño 1d4 Contundente]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_dagger",
+        "nombre_en": "Dagger +1",
+        "nombre_es": "Daga +1",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Daga con un bonificador de +1 a las tiradas de ataque y daño. [1d4 Perforante, Ligera, Arrojadiza (alcance 20/60)]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_dagger",
+        "nombre_en": "Dagger +2",
+        "nombre_es": "Daga +2",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Daga con un bonificador de +2 a las tiradas de ataque y daño. [1d4 Perforante, Ligera, Arrojadiza (alcance 20/60)]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_dagger",
+        "nombre_en": "Dagger +3",
+        "nombre_es": "Daga +3",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Daga con un bonificador de +3 a las tiradas de ataque y daño. [1d4 Perforante, Ligera, Arrojadiza (alcance 20/60)]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_dart",
+        "nombre_en": "Dart +1",
+        "nombre_es": "Dardo +1",
+        "tipo": "Simple Weapon, Ranged Weapon",
+        "descripcion": "[Poco Común, Mágica] + Dardo con un bonificador de +1 a las tiradas de ataque y daño. [Daño 1d4 Perforante, Alcance 20/60]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_dart",
+        "nombre_en": "Dart +2",
+        "nombre_es": "Dardo +2",
+        "tipo": "Simple Weapon, Ranged Weapon",
+        "descripcion": "[Raro, Mágica] + Dardo con un bonificador de +2 a las tiradas de ataque y daño. [Daño 1d4 Perforante, Alcance 20/60]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_dart",
+        "nombre_en": "Dart +3",
+        "nombre_es": "Dardo +3",
+        "tipo": "Simple Weapon, Ranged Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Dardo con un bonificador de +3 a las tiradas de ataque y daño. [Daño 1d4 Perforante, Alcance 20/60]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_flail",
+        "nombre_en": "Flail +1",
+        "nombre_es": "Mangual +1",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Mangual con un bonificador de +1 a las tiradas de ataque y daño. [1d8 daño contundente]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_flail",
+        "nombre_en": "Flail +2",
+        "nombre_es": "Mangual +2",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Mangual con un bonificador de +2 a las tiradas de ataque y daño. [1d8 daño contundente]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_flail",
+        "nombre_en": "Flail +3",
+        "nombre_es": "Mangual +3",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Mangual con un bonificador de +3 a las tiradas de ataque y daño. [1d8 daño contundente]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_glaive",
+        "nombre_en": "Glaive +1",
+        "nombre_es": "Gladius +1",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Gladius con un bonificador de +1 a las tiradas de ataque y daño. [Alcance]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_glaive",
+        "nombre_en": "Glaive +2",
+        "nombre_es": "Gladius +2",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Gladius con un bonificador de +2 a las tiradas de ataque y daño. [Alcance]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_glaive",
+        "nombre_en": "Glaive +3",
+        "nombre_es": "Gladius +3",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Gladius con un bonificador de +3 a las tiradas de ataque y daño. [Alcance]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_greataxe",
+        "nombre_en": "Greataxe +1",
+        "nombre_es": "Greataxe +1",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Greataxe con un bonificador de +1 a las tiradas de ataque y daño. ",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_greataxe",
+        "nombre_en": "Greataxe +2",
+        "nombre_es": "Greataxe +2",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Greataxe con un bonificador de +2 a las tiradas de ataque y daño. ",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_greataxe",
+        "nombre_en": "Greataxe +3",
+        "nombre_es": "Greataxe +3",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Greataxe con un bonificador de +3 a las tiradas de ataque y daño. ",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_greatclub",
+        "nombre_en": "Greatclub +1",
+        "nombre_es": "Garrote +1",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Garrote con un bonificador de +1 a las tiradas de ataque y daño. [Daño 1d8 Contundente]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_greatclub",
+        "nombre_en": "Greatclub +2",
+        "nombre_es": "Garrote +2",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Garrote con un bonificador de +2 a las tiradas de ataque y daño. [Daño 1d8 Contundente]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_greatclub",
+        "nombre_en": "Greatclub +3",
+        "nombre_es": "Garrote +3",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Garrote con un bonificador de +3 a las tiradas de ataque y daño. [Daño 1d8 Contundente]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_greatsword",
+        "nombre_en": "Greatsword +1",
+        "nombre_es": "Espada Grande +1",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Espada Grande con un bonificador de +1 a las tiradas de ataque y daño. ",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_greatsword",
+        "nombre_en": "Greatsword +2",
+        "nombre_es": "Espada Grande +2",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Espada Grande con un bonificador de +2 a las tiradas de ataque y daño. ",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_greatsword",
+        "nombre_en": "Greatsword +3",
+        "nombre_es": "Espada Grande +3",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Espada Grande con un bonificador de +3 a las tiradas de ataque y daño. ",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_halberd",
+        "nombre_en": "Halberd +1",
+        "nombre_es": "Alabarda +1",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Alabarda con un bonificador de +1 a las tiradas de ataque y daño. [Daño 1d10 cortante, Pesada, Alcance]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_halberd",
+        "nombre_en": "Halberd +2",
+        "nombre_es": "Alabarda +2",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Alabarda con un bonificador de +2 a las tiradas de ataque y daño. [Daño 1d10 cortante, Pesada, Alcance]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_halberd",
+        "nombre_en": "Halberd +3",
+        "nombre_es": "Alabarda +3",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Alabarda con un bonificador de +3 a las tiradas de ataque y daño. [Daño 1d10 cortante, Pesada, Alcance]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_hand_crossbow",
+        "nombre_en": "Hand Crossbow +1",
+        "nombre_es": "Ballesta de Mano +1",
+        "tipo": "Martial Weapon, Ranged Weapon",
+        "descripcion": "[Poco Común, Mágica] + Ballesta de Mano con un bonificador de +1 a las tiradas de ataque y daño. [1d6 Perforante, Alcance 30/120]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_hand_crossbow",
+        "nombre_en": "Hand Crossbow +2",
+        "nombre_es": "Ballesta de Mano +2",
+        "tipo": "Martial Weapon, Ranged Weapon",
+        "descripcion": "[Raro, Mágica] + Ballesta de Mano con un bonificador de +2 a las tiradas de ataque y daño. [1d6 Perforante, Alcance 30/120]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_hand_crossbow",
+        "nombre_en": "Hand Crossbow +3",
+        "nombre_es": "Ballesta de Mano +3",
+        "tipo": "Martial Weapon, Ranged Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Ballesta de Mano con un bonificador de +3 a las tiradas de ataque y daño. [1d6 Perforante, Alcance 30/120]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_handaxe",
+        "nombre_en": "Handaxe +1",
+        "nombre_es": "Hacha de Mano +1",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Hacha de Mano con un bonificador de +1 a las tiradas de ataque y daño. [Daño 1d6 cortante]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_handaxe",
+        "nombre_en": "Handaxe +2",
+        "nombre_es": "Hacha de Mano +2",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Hacha de Mano con un bonificador de +2 a las tiradas de ataque y daño. [Daño 1d6 cortante]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_handaxe",
+        "nombre_en": "Handaxe +3",
+        "nombre_es": "Hacha de Mano +3",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Hacha de Mano con un bonificador de +3 a las tiradas de ataque y daño. [Daño 1d6 cortante]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_heavy_crossbow",
+        "nombre_en": "Heavy Crossbow +1",
+        "nombre_es": "Ballesta Pesada +1",
+        "tipo": "Martial Weapon, Ranged Weapon",
+        "descripcion": "[Poco Común, Mágica] + Ballesta Pesada con un bonificador de +1 a las tiradas de ataque y daño. [1d10 perforante, Alcance 100/400 pies, Recarga]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_heavy_crossbow",
+        "nombre_en": "Heavy Crossbow +2",
+        "nombre_es": "Ballesta Pesada +2",
+        "tipo": "Martial Weapon, Ranged Weapon",
+        "descripcion": "[Raro, Mágica] + Ballesta Pesada con un bonificador de +2 a las tiradas de ataque y daño. [1d10 perforante, Alcance 100/400 pies, Recarga]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_heavy_crossbow",
+        "nombre_en": "Heavy Crossbow +3",
+        "nombre_es": "Ballesta Pesada +3",
+        "tipo": "Martial Weapon, Ranged Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Ballesta Pesada con un bonificador de +3 a las tiradas de ataque y daño. [1d10 perforante, Alcance 100/400 pies, Recarga]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_javelin",
+        "nombre_en": "Javelin +1",
+        "nombre_es": "Jabalina +1",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Jabalina con un bonificador de +1 a las tiradas de ataque y daño. [1d6 perforante, alcance 30/120 pies]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_javelin",
+        "nombre_en": "Javelin +2",
+        "nombre_es": "Jabalina +2",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Jabalina con un bonificador de +2 a las tiradas de ataque y daño. [1d6 perforante, alcance 30/120 pies]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_javelin",
+        "nombre_en": "Javelin +3",
+        "nombre_es": "Jabalina +3",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Jabalina con un bonificador de +3 a las tiradas de ataque y daño. [1d6 perforante, alcance 30/120 pies]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_lance",
+        "nombre_en": "Lance +1",
+        "nombre_es": "Lanza +1",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Lanza con un bonificador de +1 a las tiradas de ataque y daño. [Alcance 3m, Versátil (1d8)]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_lance",
+        "nombre_en": "Lance +2",
+        "nombre_es": "Lanza +2",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Lanza con un bonificador de +2 a las tiradas de ataque y daño. [Alcance 3m, Versátil (1d8)]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_lance",
+        "nombre_en": "Lance +3",
+        "nombre_es": "Lanza +3",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Lanza con un bonificador de +3 a las tiradas de ataque y daño. [Alcance 3m, Versátil (1d8)]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_light_crossbow",
+        "nombre_en": "Light Crossbow +1",
+        "nombre_es": "Ballesta Ligera +1",
+        "tipo": "Simple Weapon, Ranged Weapon",
+        "descripcion": "[Poco Común, Mágica] + Ballesta Ligera con un bonificador de +1 a las tiradas de ataque y daño. ",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_light_crossbow",
+        "nombre_en": "Light Crossbow +2",
+        "nombre_es": "Ballesta Ligera +2",
+        "tipo": "Simple Weapon, Ranged Weapon",
+        "descripcion": "[Raro, Mágica] + Ballesta Ligera con un bonificador de +2 a las tiradas de ataque y daño. ",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_light_crossbow",
+        "nombre_en": "Light Crossbow +3",
+        "nombre_es": "Ballesta Ligera +3",
+        "tipo": "Simple Weapon, Ranged Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Ballesta Ligera con un bonificador de +3 a las tiradas de ataque y daño. ",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_light_hammer",
+        "nombre_en": "Light Hammer +1",
+        "nombre_es": "Martillo Ligero +1",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Martillo Ligero con un bonificador de +1 a las tiradas de ataque y daño. [1d4 Contundente, Versátil (1d6)]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_light_hammer",
+        "nombre_en": "Light Hammer +2",
+        "nombre_es": "Martillo Ligero +2",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Martillo Ligero con un bonificador de +2 a las tiradas de ataque y daño. [1d4 Contundente, Versátil (1d6)]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_light_hammer",
+        "nombre_en": "Light Hammer +3",
+        "nombre_es": "Martillo Ligero +3",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Martillo Ligero con un bonificador de +3 a las tiradas de ataque y daño. [1d4 Contundente, Versátil (1d6)]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_longbow",
+        "nombre_en": "Longbow +1",
+        "nombre_es": "Arco Largo +1",
+        "tipo": "Martial Weapon, Ranged Weapon",
+        "descripcion": "[Poco Común, Mágica] + Arco Largo con un bonificador de +1 a las tiradas de ataque y daño. [Daño 1d8 Perforante]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_longbow",
+        "nombre_en": "Longbow +2",
+        "nombre_es": "Arco Largo +2",
+        "tipo": "Martial Weapon, Ranged Weapon",
+        "descripcion": "[Raro, Mágica] + Arco Largo con un bonificador de +2 a las tiradas de ataque y daño. [Daño 1d8 Perforante]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_longbow",
+        "nombre_en": "Longbow +3",
+        "nombre_es": "Arco Largo +3",
+        "tipo": "Martial Weapon, Ranged Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Arco Largo con un bonificador de +3 a las tiradas de ataque y daño. [Daño 1d8 Perforante]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_longsword",
+        "nombre_en": "Longsword +1",
+        "nombre_es": "Espada Larga +1",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Espada Larga con un bonificador de +1 a las tiradas de ataque y daño. [Daño 1d8 cortante]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_longsword",
+        "nombre_en": "Longsword +2",
+        "nombre_es": "Espada Larga +2",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Espada Larga con un bonificador de +2 a las tiradas de ataque y daño. [Daño 1d8 cortante]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_longsword",
+        "nombre_en": "Longsword +3",
+        "nombre_es": "Espada Larga +3",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Espada Larga con un bonificador de +3 a las tiradas de ataque y daño. [Daño 1d8 cortante]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_mace",
+        "nombre_en": "Mace +1",
+        "nombre_es": "Maza +1",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Maza con un bonificador de +1 a las tiradas de ataque y daño. [Daño 1d6 Contundente]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_mace",
+        "nombre_en": "Mace +2",
+        "nombre_es": "Maza +2",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Maza con un bonificador de +2 a las tiradas de ataque y daño. [Daño 1d6 Contundente]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_mace",
+        "nombre_en": "Mace +3",
+        "nombre_es": "Maza +3",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Maza con un bonificador de +3 a las tiradas de ataque y daño. [Daño 1d6 Contundente]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_maul",
+        "nombre_en": "Maul +1",
+        "nombre_es": "Maul +1",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Maul con un bonificador de +1 a las tiradas de ataque y daño. [2d6 Daño Contundente]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_maul",
+        "nombre_en": "Maul +2",
+        "nombre_es": "Maul +2",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Maul con un bonificador de +2 a las tiradas de ataque y daño. [2d6 Daño Contundente]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_maul",
+        "nombre_en": "Maul +3",
+        "nombre_es": "Maul +3",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Maul con un bonificador de +3 a las tiradas de ataque y daño. [2d6 Daño Contundente]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_morningstar",
+        "nombre_en": "Morningstar +1",
+        "nombre_es": "Estrella de la Mañana +1",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Estrella de la Mañana con un bonificador de +1 a las tiradas de ataque y daño. [Daño 1d8 perforante]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_morningstar",
+        "nombre_en": "Morningstar +2",
+        "nombre_es": "Estrella de la Mañana +2",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Estrella de la Mañana con un bonificador de +2 a las tiradas de ataque y daño. [Daño 1d8 perforante]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_morningstar",
+        "nombre_en": "Morningstar +3",
+        "nombre_es": "Estrella de la Mañana +3",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Estrella de la Mañana con un bonificador de +3 a las tiradas de ataque y daño. [Daño 1d8 perforante]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_pike",
+        "nombre_en": "Pike +1",
+        "nombre_es": "Pica +1",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Pica con un bonificador de +1 a las tiradas de ataque y daño. [Daño 1d10 Perforante, A dos manos, Alcance]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_pike",
+        "nombre_en": "Pike +2",
+        "nombre_es": "Pica +2",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Pica con un bonificador de +2 a las tiradas de ataque y daño. [Daño 1d10 Perforante, A dos manos, Alcance]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_pike",
+        "nombre_en": "Pike +3",
+        "nombre_es": "Pica +3",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Pica con un bonificador de +3 a las tiradas de ataque y daño. [Daño 1d10 Perforante, A dos manos, Alcance]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_quarterstaff",
+        "nombre_en": "Quarterstaff +1",
+        "nombre_es": "Bastón +1",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Bastón con un bonificador de +1 a las tiradas de ataque y daño. [Daño 1d6 contundente]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_quarterstaff",
+        "nombre_en": "Quarterstaff +2",
+        "nombre_es": "Bastón +2",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Bastón con un bonificador de +2 a las tiradas de ataque y daño. [Daño 1d6 contundente]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_quarterstaff",
+        "nombre_en": "Quarterstaff +3",
+        "nombre_es": "Bastón +3",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Bastón con un bonificador de +3 a las tiradas de ataque y daño. [Daño 1d6 contundente]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_rapier",
+        "nombre_en": "Rapier +1",
+        "nombre_es": "Rapiera +1",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Rapiera con un bonificador de +1 a las tiradas de ataque y daño. [1d8 Perforante, Ligera, Fina]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_rapier",
+        "nombre_en": "Rapier +2",
+        "nombre_es": "Rapiera +2",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Rapiera con un bonificador de +2 a las tiradas de ataque y daño. [1d8 Perforante, Ligera, Fina]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_rapier",
+        "nombre_en": "Rapier +3",
+        "nombre_es": "Rapiera +3",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Rapiera con un bonificador de +3 a las tiradas de ataque y daño. [1d8 Perforante, Ligera, Fina]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_scimitar",
+        "nombre_en": "Scimitar +1",
+        "nombre_es": "Cimitarra +1",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Cimitarra con un bonificador de +1 a las tiradas de ataque y daño. [1d6 cortante, Ligera, Sutil]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_scimitar",
+        "nombre_en": "Scimitar +2",
+        "nombre_es": "Cimitarra +2",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Cimitarra con un bonificador de +2 a las tiradas de ataque y daño. [1d6 cortante, Ligera, Sutil]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_scimitar",
+        "nombre_en": "Scimitar +3",
+        "nombre_es": "Cimitarra +3",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Cimitarra con un bonificador de +3 a las tiradas de ataque y daño. [1d6 cortante, Ligera, Sutil]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_shortbow",
+        "nombre_en": "Shortbow +1",
+        "nombre_es": "Arco Corto +1",
+        "tipo": "Simple Weapon, Ranged Weapon",
+        "descripcion": "[Poco Común, Mágica] + Arco Corto con un bonificador de +1 a las tiradas de ataque y daño. [1d6 Perforante, Alcance 80/320 pies]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_shortbow",
+        "nombre_en": "Shortbow +2",
+        "nombre_es": "Arco Corto +2",
+        "tipo": "Simple Weapon, Ranged Weapon",
+        "descripcion": "[Raro, Mágica] + Arco Corto con un bonificador de +2 a las tiradas de ataque y daño. [1d6 Perforante, Alcance 80/320 pies]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_shortbow",
+        "nombre_en": "Shortbow +3",
+        "nombre_es": "Arco Corto +3",
+        "tipo": "Simple Weapon, Ranged Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Arco Corto con un bonificador de +3 a las tiradas de ataque y daño. [1d6 Perforante, Alcance 80/320 pies]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_shortsword",
+        "nombre_en": "Shortsword +1",
+        "nombre_es": "Espada Corta +1",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Espada Corta con un bonificador de +1 a las tiradas de ataque y daño. [Arma Marcial, Arma Cuerpo a Cuerpo]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_shortsword",
+        "nombre_en": "Shortsword +2",
+        "nombre_es": "Espada Corta +2",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Espada Corta con un bonificador de +2 a las tiradas de ataque y daño. [Arma Marcial, Arma Cuerpo a Cuerpo]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_shortsword",
+        "nombre_en": "Shortsword +3",
+        "nombre_es": "Espada Corta +3",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Espada Corta con un bonificador de +3 a las tiradas de ataque y daño. [Arma Marcial, Arma Cuerpo a Cuerpo]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_sickle",
+        "nombre_en": "Sickle +1",
+        "nombre_es": "Guadaña +1",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Guadaña con un bonificador de +1 a las tiradas de ataque y daño. [Daño 1d4 Cortante]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_sickle",
+        "nombre_en": "Sickle +2",
+        "nombre_es": "Guadaña +2",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Guadaña con un bonificador de +2 a las tiradas de ataque y daño. [Daño 1d4 Cortante]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_sickle",
+        "nombre_en": "Sickle +3",
+        "nombre_es": "Guadaña +3",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Guadaña con un bonificador de +3 a las tiradas de ataque y daño. [Daño 1d4 Cortante]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_sling",
+        "nombre_en": "Sling +1",
+        "nombre_es": "Honda +1",
+        "tipo": "Simple Weapon, Ranged Weapon",
+        "descripcion": "[Poco Común, Mágica] + Honda con un bonificador de +1 a las tiradas de ataque y daño. [Daño 1d4 contundente, alcance 30/120 pies]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_sling",
+        "nombre_en": "Sling +2",
+        "nombre_es": "Honda +2",
+        "tipo": "Simple Weapon, Ranged Weapon",
+        "descripcion": "[Raro, Mágica] + Honda con un bonificador de +2 a las tiradas de ataque y daño. [Daño 1d4 contundente, alcance 30/120 pies]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_sling",
+        "nombre_en": "Sling +3",
+        "nombre_es": "Honda +3",
+        "tipo": "Simple Weapon, Ranged Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Honda con un bonificador de +3 a las tiradas de ataque y daño. [Daño 1d4 contundente, alcance 30/120 pies]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_spear",
+        "nombre_en": "Spear +1",
+        "nombre_es": "Lanza +1",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Lanza con un bonificador de +1 a las tiradas de ataque y daño. [Daño 1d6 perforante]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_spear",
+        "nombre_en": "Spear +2",
+        "nombre_es": "Lanza +2",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Lanza con un bonificador de +2 a las tiradas de ataque y daño. [Daño 1d6 perforante]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_spear",
+        "nombre_en": "Spear +3",
+        "nombre_es": "Lanza +3",
+        "tipo": "Simple Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Lanza con un bonificador de +3 a las tiradas de ataque y daño. [Daño 1d6 perforante]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_trident",
+        "nombre_en": "Trident +1",
+        "nombre_es": "Tridente +1",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Tridente con un bonificador de +1 a las tiradas de ataque y daño. [1d6 perforante (a una mano), 1d8 perforante (a dos manos). Arma marcial, cuerpo a cuerpo.]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_trident",
+        "nombre_en": "Trident +2",
+        "nombre_es": "Tridente +2",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Tridente con un bonificador de +2 a las tiradas de ataque y daño. [1d6 perforante (a una mano), 1d8 perforante (a dos manos). Arma marcial, cuerpo a cuerpo.]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_trident",
+        "nombre_en": "Trident +3",
+        "nombre_es": "Tridente +3",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Tridente con un bonificador de +3 a las tiradas de ataque y daño. [1d6 perforante (a una mano), 1d8 perforante (a dos manos). Arma marcial, cuerpo a cuerpo.]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_war_pick",
+        "nombre_en": "War Pick +1",
+        "nombre_es": "Pico de Guerra +1",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Pico de Guerra con un bonificador de +1 a las tiradas de ataque y daño. [1d8 perforante]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_war_pick",
+        "nombre_en": "War Pick +2",
+        "nombre_es": "Pico de Guerra +2",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Pico de Guerra con un bonificador de +2 a las tiradas de ataque y daño. [1d8 perforante]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_war_pick",
+        "nombre_en": "War Pick +3",
+        "nombre_es": "Pico de Guerra +3",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Pico de Guerra con un bonificador de +3 a las tiradas de ataque y daño. [1d8 perforante]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_warhammer",
+        "nombre_en": "Warhammer +1",
+        "nombre_es": "Martillo de Guerra +1",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Martillo de Guerra con un bonificador de +1 a las tiradas de ataque y daño. [Daño 1d8 Contundente]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_warhammer",
+        "nombre_en": "Warhammer +2",
+        "nombre_es": "Martillo de Guerra +2",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Martillo de Guerra con un bonificador de +2 a las tiradas de ataque y daño. [Daño 1d8 Contundente]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_warhammer",
+        "nombre_en": "Warhammer +3",
+        "nombre_es": "Martillo de Guerra +3",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Martillo de Guerra con un bonificador de +3 a las tiradas de ataque y daño. [Daño 1d8 Contundente]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "1_whip",
+        "nombre_en": "Whip +1",
+        "nombre_es": "Látigo +1",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Poco Común, Mágica] + Látigo con un bonificador de +1 a las tiradas de ataque y daño. [Alcance 3m, Daño 1d4 cortante]",
+        "manual": "SRD",
+        "precio": "500 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "2_whip",
+        "nombre_en": "Whip +2",
+        "nombre_es": "Látigo +2",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Raro, Mágica] + Látigo con un bonificador de +2 a las tiradas de ataque y daño. [Alcance 3m, Daño 1d4 cortante]",
+        "manual": "SRD",
+        "precio": "5000 gp",
+        "requiere_sintonizacion": false
+    },
+    {
+        "id": "3_whip",
+        "nombre_en": "Whip +3",
+        "nombre_es": "Látigo +3",
+        "tipo": "Martial Weapon, Melee Weapon",
+        "descripcion": "[Muy Raro, Mágica] + Látigo con un bonificador de +3 a las tiradas de ataque y daño. [Alcance 3m, Daño 1d4 cortante]",
+        "manual": "SRD",
+        "precio": "50000 gp",
+        "requiere_sintonizacion": false
     }
 ]
